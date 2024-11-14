@@ -1,7 +1,7 @@
 # 100 Python Coding Challenges
 
 Welcome to the **100 Python Coding Challenges** repository! This project aims to help learners of all levels practice Python programming through structured coding challenges. Each challenge is designed to cover specific programming concepts and problem-solving skills.
----
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -9,17 +9,17 @@ Welcome to the **100 Python Coding Challenges** repository! This project aims to
 3. [How to Use This Repository](#how-to-use-this-repository)
 4. [Contributing](#contributing)
 5. [Resources](#resources)
----
+
 ## Introduction
 
 This repository contains 100 Python coding challenges organized into categories based on specific topics. The challenges are grouped into levels, with each level becoming progressively more challenging. The goal is to help users improve their understanding and application of core Python concepts.
----
+
 ## Challenge Categories
 
 Each category is split into two levels:
 - **Level 1**: Beginner-friendly problems that introduce the topic.
 - **Level 2**: Intermediate challenges to deepen your understanding.
----
+
 ### Challenge Breakdown
 
 | Category                        | Level 1 Challenges | Level 2 Challenges |
@@ -32,7 +32,7 @@ Each category is split into two levels:
 | **Recursion**                   | Problems 72 - 76   | Problems 77 - 82   |
 | **Working with Files**          | Problems 83 - 87   | Problems 88 - 91   |
 | **Miscellaneous**               | Problems 92 - 97   | Problems 98 - 100  |
----
+
 ## How to Use This Repository
 
 1. **Select a Category**: Start by picking a category that aligns with the concept you want to practice.
@@ -43,11 +43,11 @@ Each category is split into two levels:
    - Implement your solution in the provided code structure.
 4. **Test Your Solution**: Run the provided test cases to verify your solution.
 
----
+
 ## Contributing
 
 We welcome contributions! If you have a new challenge idea or want to improve an existing solution, please feel free to create a pull request.
----
+
 ## Resources
 
 Here are some helpful resources to get you started:
